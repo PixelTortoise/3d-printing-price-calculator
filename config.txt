@@ -1,0 +1,4 @@
+maintainenceBill = 0.50
+markup = 2
+roundUp = true
+printReceipt = true
